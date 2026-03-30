@@ -41,8 +41,14 @@ The goal is to identify key revenue drivers and provide actionable business insi
 
 ## 📈 Dashboard
 
-<img width="1358" height="726" alt="e-commerce dashboard" src="https://github.com/user-attachments/assets/74a82ab5-b51c-406c-8363-cc4c5e29ef51" />
+### Full Dashboard
+![Dashboard](images/dashboard.png)
 
+### Customer vs Revenue Distribution
+![Customer Segment](images/customer_segment.png)
+
+### Category Contribution
+![Category Analysis](images/category_analysis.png)
 
 ---
 
